@@ -1,0 +1,11 @@
+1-Obtener una lista de todas las empleadas de los departamentos que empiecen por D y por E. La lista anterior debe contener información sobre el número de personal, nombre, apellido y número de teléfono.
+2-Obtener un listado de todos los empleados (nombre y apellido) que ganan más de 2000€ al mes y que entraron en la compañía después del 1 de Enero de 1975. También se quiere la información correspondiente a su código de trabajo y al número de personal de sus directores.
+3-Obtener una lista con el apellido, número de departamento y salario mensual de los empleados de los departamentos ‘A00’, ‘B01’, ‘C01’ y ‘D01’. La salida se quiere en orden descendente de salario dentro de cada departamento.
+4-Se pide una lista que recupere el salario medio de cada departamento junto con el número de empleados que tiene. El resultado no debe incluir empleados que tengan un código de trabajo mayor que 54, ni departamentos con menos de tres empleados. Se quiere ordenada por número de departamento.
+5-Seleccionar todos los empleados de los departamentos ‘D11’ y ‘E11’ cuyo primer apellido empiece por S.
+6-Obtener el nombre, apellido y fecha de ingreso de los directores de departamento ordenados por número de personal.
+7-Obtener un listado de las mujeres de los departamentos que empiecen por D y por E cuyo nivel de educación sea superior a la media; en este caso también ordenados por número de personal.
+8-Seleccionar todos los empleados cuyo nombre sea igual al de algunas personas del departamento D21 y cuyo código de trabajo sea diferente de todos los del E21 (la lista debe contener el número de personal, nombre, apellido, departamento y código de trabajo).
+9-Listar los empleados que no sean directores (la información que debe aparecer es el número de personal, apellido y departamento).
+10-Seleccionar parejas de empleados (de sexo opuesto) que hayan nacido el mismo día (con información acerca de apellido y fecha de nacimiento).
+11-Obtener un listado de todos los empleados que pertenecen al mismo departamento que Tomás Soler.
